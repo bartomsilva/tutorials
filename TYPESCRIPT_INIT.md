@@ -76,7 +76,7 @@ Olá peoples, ai vai um pequeno roteiro do processo de criação de um projeto e
   - e em seguida rodar nosso código
 - veja no exemplo abaixo o start 
   - tsc transpila os arquivos que estão na pasta src
-  - node ./build/index.js executar o arquivo .js que 
+  - node ./build/index.js executa o arquivo .js que 
     foi resultado da transpilação.
 ```json
 {
