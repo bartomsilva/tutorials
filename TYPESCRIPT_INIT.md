@@ -241,7 +241,14 @@ Olá peoples, ai vai um pequeno roteiro do processo de criação de um projeto e
     // criando arrray de objetos tipo Student 
 
     // utiliando o Enum
-    const students:Student[] = [{name:"Sabtudo",year: "oitavo ano",shift:SCHEDULE_CLASSES.MANHA}]
+    const students:Student[] =
+    [
+     {
+       name:"Sabtudo",
+       year: "oitavo ano",
+       shift:SCHEDULE_CLASSES.MANHA
+     }
+    ]
 
 ```
 
