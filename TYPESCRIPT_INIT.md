@@ -1,5 +1,5 @@
 
-# Projeto em nodeJs
+# Projeto em nodeJs com TS
 ## Tutórial básico
 
 <p style=color:yellow;font-style:italic>o objetivo desse material e ser um guia básico, para você poder seguir com seu projeto e estudos sobre TS.<p>
